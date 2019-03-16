@@ -1,2 +1,3 @@
 # PR_2
-* [google] (https://www.google.md/)
+
+* [google](https://www.google.md/)
